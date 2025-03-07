@@ -18,23 +18,23 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/mythical-creature-game.git
+  - git clone https://github.com/your-username/mythical-creature-game.git
 
-Navigate to the project directory:
+  - Navigate to the project directory:
 
-cd mythical-creature-game
+  - cd mythical-creature-game
 
-Compile and run the program (for Java):
+  - Compile and run the program (for Java):
 
-javac MythicalCreatureGame.java
-java MythicalCreatureGame
+  - javac MythicalCreatureGame.java
+    java MythicalCreatureGame
 
 How to Play
 
-Start a new game or load a saved file.
+  - Start a new game or load a saved file.
 
-Choose a mythical creature to care for.
+  - Choose a mythical creature to care for.
 
-Perform actions to maintain your creature’s health and mood.
+  - Perform actions to maintain your creature’s health and mood.
 
-Play multiple rounds to improve your score and master the game.
+  - Play multiple rounds to improve your score and master the game.
